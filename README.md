@@ -19,6 +19,12 @@ pip install -r requeriments.txt
 ```bash
 python main.py
 ```
+3.Mude'SUA_API_KEY'
+```bash
+      api_key = 'SUA_API_KEY',
+      
+      ##ex: api_key = 'sk-xxxxxx',
+```
 ## 📌 Observações:
 - Requer chave da API da OpenAI
 - Necessário ter FFMPEG no PATH do sistema
