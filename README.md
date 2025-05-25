@@ -16,9 +16,9 @@ Este projeto baixa o áudio de um vídeo do YouTube, transcreve com Google Speec
 pip install -r requeriments.txt
 ```
 2. Execute o script:
-
+```bash
 python main.py
-
+```
 ## 📌 Observações:
 - Requer chave da API da OpenAI
 - Necessário ter FFMPEG no PATH do sistema
