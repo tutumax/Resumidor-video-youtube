@@ -16,7 +16,7 @@ pip install -r requeriments.txt
 
 2. Execute o script:
 
-
+python main.py
 
 ## 📌 Observações:
 - Requer chave da API da OpenAI
