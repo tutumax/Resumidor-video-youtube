@@ -21,9 +21,9 @@ python main.py
 ```
 3.Mude'SUA_API_KEY'
 ```bash
-      api_key = 'SUA_API_KEY',
+api_key = 'SUA_API_KEY',
       
-      ##ex: api_key = 'sk-xxxxxx',
+##ex: api_key = 'sk-xxxxxx',
 ```
 ## 📌 Observações:
 - Requer chave da API da OpenAI
