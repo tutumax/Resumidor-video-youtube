@@ -19,7 +19,7 @@ pip install -r requeriments.txt
 ```bash
 python main.py
 ```
-3.Mude'SUA_API_KEY'
+3.Mude a api_key
 ```bash
 api_key = 'SUA_API_KEY',
       
