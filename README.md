@@ -12,8 +12,9 @@ Este projeto baixa o áudio de um vídeo do YouTube, transcreve com Google Speec
 ## ▶️ Como usar:
 1. Instale os pacotes:
 
+```bash
 pip install -r requeriments.txt
-
+```
 2. Execute o script:
 
 python main.py
